@@ -1,0 +1,54 @@
+.img{
+    text-align: center;
+    margin: auto;
+}
+
+.graybox{
+    text-align: center;
+    margin: 0 auto;
+    background-color:#EEEEEE;
+    height: 60px;
+    
+}
+
+.searchbox{
+    display:block;
+    margin: auto;
+    border-width: 2px;
+    border-style: inset;
+    border-spacing: 2px;
+    padding: 8px;
+    background-color: white;
+    text-align: center;
+}
+
+.container {
+    margin: auto;
+    width: 90%;
+    height: 60px;
+    text-align: center;    
+ }
+
+.button{
+    background-color: whitesmoke;
+    border-radius: 5;
+    padding: 1px 6px;
+    padding: 5 20;
+}
+
+.card1color{
+    background-color: rgb(88, 238, 200);
+}
+
+.card2color{
+    background-color: rgb(67, 184, 154);
+}
+
+.card3color{
+    background-color: rgb(53, 141, 119);
+}
+
+td{
+    display: table-cell;
+    vertical-align: inherit; 
+}
